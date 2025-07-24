@@ -4,7 +4,7 @@ import Modal from 'react-bootstrap/Modal';
 import base_Url from '../services/base_url';
 import { toast } from 'react-toastify';
 import { editprojectApi } from '../services/allApis';
-import { EditResponseContext } from '../ContextApi/context';
+import { EditResponseContext } from '../ContextApi/Context';
 
 
 

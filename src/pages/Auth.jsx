@@ -4,7 +4,7 @@ import Form from 'react-bootstrap/Form';
 import { regUserApi ,logUserApi} from '../services/allApis';
 import { toast } from 'react-toastify';
 import { useNavigate } from 'react-router-dom';
-import { authContext } from '../ContextApi/context';
+import { authContext } from '../ContextApi/Context';
 import Profile from '../components/Profile';
 
 

@@ -3,7 +3,7 @@ import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import { useNavigate } from 'react-router-dom';
 import { toast } from 'react-toastify';
-import { authContext } from '../ContextApi/context';
+import { authContext } from '../ContextApi/Context';
 
 
 function Header() {

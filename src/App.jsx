@@ -5,7 +5,7 @@ import Dashboard from './pages/Dashboard'
 import Projects from './pages/Projects'
 import Footer from './components/Footer'
 import { ToastContainer } from 'react-toastify'
-import { authContext } from './ContextApi/context'
+import { authContext } from './ContextApi/Context'
 import { useContext } from 'react'
 
 import Landing from './pages/Landing'
