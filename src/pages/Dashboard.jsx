@@ -7,7 +7,7 @@ import { userProjectapi } from '../services/allApis'
 import { deleteprojectApi } from '../services/allApis'
 import { toast } from 'react-toastify'
 import Edit from '../components/Edit'
-import { AddResponseContext,EditResponseContext } from '../ContextApi/context'
+import { AddResponseContext,EditResponseContext } from '../ContextApi/Context'
 
 function Dashboard() {
   const [project,setptoject]=useState([])
